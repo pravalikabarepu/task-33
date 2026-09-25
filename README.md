@@ -119,11 +119,11 @@ Detailed recommendations are provided in `netflix_summary.txt`.
 ## Project Files
 
 ```text
-Netflix_Content_Strategy_Analysis/
+Netflix/
 │
-├── netflix_content_analysis.ipynb
+├── movie.ipynb
 ├── netflix.csv
-├── netflix_content_analysis.sql
+├── netflix.sql
 ├── netflix_summary.txt
 ```
 
