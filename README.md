@@ -69,18 +69,15 @@ Analyzed the distribution of content ratings to understand the audience categori
 
 Examined country-level content representation to understand the geographic mix of the catalog.
 
-### 6. Content Duration Analysis
+### 6. Average movie duration: 99.58 minutes.
 
-Analyzed:
+### 7. Average TV seasons: 1.76
 
-• Average movie duration over time
-• Average number of TV seasons over time
+### 8. Largest genre: International movies-2752 titles
 
-### 7. Average movie duration: 99.58 minutes.
-### 8. Average TV seasons: 1.76
-### 9. Largest genre: International movies-2752 titles
-### 10. Largest content market: Unites States - 3689 titles
-### 11. Most common rating: TV-MA - 3207 titles 
+### 9. Largest content market: Unites States - 3689 titles
+
+### 10. Most common rating: TV-MA - 3207 titles 
 
 ## Visualizations
 
