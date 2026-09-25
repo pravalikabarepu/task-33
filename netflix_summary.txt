@@ -1,0 +1,49 @@
+NETFLIX DATA ANALYSIS
+
+Project Overview
+This project analyzes the netflix content
+
+Dataset
+dataset: Netflix Titles dataset
+Number of records: 8807
+Main columns used:
+- show_id
+- type
+- Titles
+- director
+- cast
+- country
+- date_added
+- release_year
+- rating
+- duration
+- listed_in
+- description
+
+Analysis Performed
+1. Movies vs TV Shows
+2. Netflix content releases by year
+3. Top 10 genres
+4. Genre trends over time
+5. Content rating distribution
+6. Country-wise content Analysis
+7. Average movie duration over time
+8. TV seasons trends
+9. Additional analysis- movie vs TV shows by year
+10. key statistical summaries
+11. Automatically identify some key findings
+
+Key Insights
+1. Movies make up a larger share of the Netflix catalog than TV shows.
+2. Netflix content additions increased significantly over time, with strong growth during the 2010s.
+3. International movies, dramas, and comedies are among the most common genres in the catalog.
+4. Genre popularity changed over time, showing different patterns of growth and decline.
+5. TV-MA and TV-14 ate the most common content rating in the dataset.
+6. The Netflix catalog contains content from many countries, showing its international reach(United States).
+7. The average duration for the movie is 200 minutes in the year(1960-1970).
+8. The averge Tv shows for the year (200-2005) has the highest-9 seasons.
+9. Movies has the highest releases in the year(2016-2018). TV shows has the highest releases in the year 2020.
+
+Conclusion
+The analysis provides an overview of Netflix's content composition, release patterns, genre distribution, and audience ratings using 
+data-driven visulaizations.
